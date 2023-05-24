@@ -1,4 +1,4 @@
-const text = 'What would Brian do?';
+const text = 'WHAT WOULD BRIAN DO?';
 let index = 0;
 
 function typeText() {
